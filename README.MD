@@ -2,7 +2,6 @@
 
 * The /addPerson API adds a person to the database
 * The /getGuests API returns a list of all guests
-* The /deletePerson API deletes a guest from the database
 
 ## Running the project
 
