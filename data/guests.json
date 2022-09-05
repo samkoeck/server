@@ -1,0 +1,15 @@
+[{"name":"koeck",
+        "firstName": "sam",
+        "phoneNumber": "02158"
+    },
+    {
+        "name": "hans",
+        "firstName": "hans",
+        "phoneNumber": "1"
+    },
+    {
+        "name": "jan",
+        "firstName": "jan",
+        "phoneNumber": "2"
+    }
+]
